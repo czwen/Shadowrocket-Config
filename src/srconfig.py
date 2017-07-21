@@ -4,12 +4,12 @@ import urllib.request
 
 
 class SRConfig:
-    __DownloadFilePath = "..\\third_party\\"
+    __DownloadFilePath = "../third_party/"
     __GFWListRuleFileName = "gfw.txt"
     __BlockRuleFileName = "block.txt"
     __BaseRuleFileName = "baserule.txt"
-    __OutputRuleName = "..\\rule.txt"
-    __OutputRuleWithAdBlockName = "..\\rulewithad.txt"
+    __OutputRuleName = "../rule.txt"
+    __OutputRuleWithAdBlockName = "../rulewithad.txt"
 
     __GFWListUrl = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
     __BlockRulesUrls = ["https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
