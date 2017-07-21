@@ -1986,6 +1986,7 @@
 ||5gl1x9qc.com^$third-party
 ||600z.com^$third-party
 ||62.27.51.163^$third-party,domain=~adlive.de.ip
+||62b70ac32d4614b.com^$third-party
 ||63.225.61.4^$third-party
 ||64.20.60.123^$third-party
 ||67s6gxv28kin.com^$third-party
@@ -3943,6 +3944,7 @@
 ||gojoingscnow.com^$third-party
 ||gold-file.com^$third-party
 ||gold-good4u.com^$third-party
+||gonomy.info^$third-party
 ||goodadvert.ru^$third-party
 ||goodadvertising.info^$third-party
 ||goodluckblockingthis.com^$third-party
@@ -4311,6 +4313,7 @@
 ||keywordsconnect.com^$third-party
 ||kgidpryrz8u2v0rz37.com^$third-party
 ||kikuzip.com^$third-party
+||kilorama.com^$third-party
 ||kinley.com^$third-party
 ||kintokup.com^$third-party
 ||kiosked.com^$third-party
@@ -4344,6 +4347,7 @@
 ||laim.tv^$third-party
 ||lakequincy.com^$third-party
 ||lakidar.net^$third-party
+||lamalama.top^$third-party
 ||landelcut.com^$third-party
 ||langosh.biz^$third-party
 ||lanistaconcepts.com^$third-party
@@ -5425,6 +5429,7 @@
 ||semanticrep.com^$third-party
 ||sendptp.com^$third-party
 ||senzapudore.net^$third-party
+||sepulchralconestogaleftover.com^$third-party
 ||sepyw.top^$third-party
 ||serialbay.com^$third-party
 ||seriend.com^$third-party
@@ -6608,6 +6613,7 @@
 ||belwrite.com^$third-party
 ||bip-bip-blip.com^$third-party
 ||bipwrite.com^$third-party
+||bororango.com^$third-party
 ||borotango.com^$third-party
 ||cap-cap-pop.com^$third-party
 ||catwrite.com^$third-party
@@ -6642,6 +6648,7 @@
 ||tin-tin-win.com^$third-party
 ||tlootas.org^$third-party
 ||tok-dan-host.com^$third-party
+||tororango.com^$third-party
 ||totifiquo.com^$third-party
 ||tur-tur-key.com^$third-party
 ||unoblotto.net^$third-party
@@ -9466,6 +9473,8 @@
 ||ziccardia.com^$third-party
 ||zomri.net^$third-party
 ||zrfrornn.net^$third-party
+! WebRTC adservers
+a.upnorma.com^$webrtc
 ! temporary workaround for Adblock Plus for Chrome bug #4599 (https://issues.adblockplus.org/ticket/4599)
 ||voodoo.com^$~stylesheet,third-party
 
