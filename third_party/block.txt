@@ -450,6 +450,7 @@
 ||content.secondspace.com^$~image,third-party
 ||contentcastsyndication.com^*&banner
 ||continent8.com^*/bannerflow/
+||contributor.google.com^*/loader.js$third-party
 ||conversionplanet.com/published/feeds/$third-party
 ||core.windows.net^$script,domain=yify.tv
 ||couponcp-a.akamaihd.net^$third-party
@@ -2033,6 +2034,7 @@
 ||abnad.net^$third-party
 ||aboutads.quantcast.com^$third-party
 ||abscontal.com^$third-party
+||absential.info^$third-party
 ||abtracker.us^$third-party
 ||accelacomm.com^$third-party
 ||access-mc.com^$third-party
@@ -2682,6 +2684,7 @@
 ||allopenclose.click^$third-party
 ||alloydigital.com^$third-party
 ||allyes.com^$third-party
+||almostle.info^$third-party
 ||alphabird.com^$third-party
 ||alphabirdnetwork.com^$third-party
 ||alphagodaddy.com^$third-party
@@ -2753,6 +2756,7 @@
 ||areasins.com^$third-party
 ||areasnap.com^$third-party
 ||arecio.work^$third-party
+||arrassley.info^$third-party
 ||arti-mediagroup.com^$third-party
 ||articulty.com^$third-party
 ||as-farm.com^$third-party
@@ -3054,6 +3058,7 @@
 ||c-planet.net^$third-party
 ||c13b2beea116e.com^$third-party
 ||c8.net.ua^$third-party
+||cabinsone.com^$third-party
 ||callmd5map.com^$third-party
 ||camleyads.info^$third-party
 ||campanja.com^$third-party
@@ -3265,6 +3270,7 @@
 ||conyak.com^$third-party
 ||coolerads.com^$third-party
 ||coolmirage.com^$third-party
+||coolsite.club^$third-party
 ||coolyeti.info^$third-party
 ||copacet.com^$third-party
 ||cor-natty.com^$third-party
@@ -3336,6 +3342,7 @@
 ||curtisfrierson.com^$third-party
 ||cwkuki.com^$third-party
 ||cwtrackit.com^$third-party
+||cxmedia.co^$third-party
 ||cybmas.com^$third-party
 ||cygnus.com^$third-party
 ||czasnaherbate.info^$third-party
@@ -3685,6 +3692,7 @@
 ||especifican.com^$third-party
 ||essayads.com^$third-party
 ||essaycoupons.com^$third-party
+||estantiale.com^$third-party
 ||estorest.com^$third-party
 ||et-code.ru^$third-party
 ||etah6wu.top^$third-party
@@ -4858,6 +4866,7 @@
 ||onclasrv.com^$third-party
 ||onclickads.net^$third-party
 ||onclickmax.com^$third-party
+||onclickpulse.com^$third-party
 ||onclkds.com^$third-party
 ||onedmp.com^$third-party
 ||onenetworkdirect.com^$third-party
@@ -4915,6 +4924,7 @@
 ||oskale.ru^$third-party
 ||ospreymedialp.com^$third-party
 ||osuq4jc.com^$third-party
+||othere.info^$third-party
 ||othersonline.com^$third-party
 ||ourbanners.net^$third-party
 ||ourunlimitedleads.com^$third-party
@@ -4992,6 +5002,7 @@
 ||perfectmarket.com^$third-party
 ||perfoormapp.info^$third-party
 ||performance-based.com^$third-party
+||performanceadexchange.com^$third-party
 ||performanceadvertising.mobi^$third-party
 ||performancetrack.info^$third-party
 ||performancingads.com^$third-party
@@ -5147,6 +5158,7 @@
 ||propelllerads.com^$third-party
 ||propelplus.com^$third-party
 ||proper.io^$third-party
+||propranok.com^$third-party
 ||prorentisol.com^$third-party
 ||prosperent.com^$third-party
 ||protally.net^$third-party
@@ -5193,6 +5205,7 @@
 ||puserving.com^$third-party
 ||push2check.com^$third-party
 ||pussl11.com^$third-party
+||pussl4.com^$third-party
 ||putrr2.com^$third-party
 ||putrr3.com^$third-party
 ||putrr4.com^$third-party
@@ -5619,6 +5632,7 @@
 ||statsmobi.com^$third-party
 ||stealthlockers.com^$third-party
 ||steepto.com^$third-party
+||stencef.com^$third-party
 ||step-step-go.com^$third-party
 ||stickcoinad.com^$third-party
 ||stickyadstv.com^$third-party
@@ -6619,6 +6633,7 @@
 ||catwrite.com^$third-party
 ||centwrite.com^$third-party
 ||cold-cold-freezing.com^$third-party
+||crickwrite.com^$third-party
 ||data-data-vac.com^$third-party
 ||del-del-ete.com^$third-party
 ||dit-dit-dot.com^$third-party
@@ -6642,6 +6657,7 @@
 ||parwrite.com^$third-party
 ||raz-raz-mataz.com^$third-party
 ||razwrite.com^$third-party
+||rick-rick-rob.com^$third-party
 ||tek-tek-trek.com^$third-party
 ||tic-tic-bam.com^$third-party
 ||tic-tic-toc.com^$third-party
