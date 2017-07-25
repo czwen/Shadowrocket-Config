@@ -1,4 +1,5 @@
-# Shadowrocket: 2017-07-24 11:17:52.844733
+# Shadowrocket: 2017-07-25 14:51:40.504522
+
 # Shadowrocket config file by Hayden
 
 [General]
@@ -4890,14 +4891,14 @@ DOMAIN-SUFFIX,telegram.me,Proxy
 DOMAIN-SUFFIX,t.me,Proxy
 
 # Apple
-DOMAIN,apple.com,PROXY
-DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,icloud.com,PROXY
-DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,itunesconnect.apple.com,PROXY
-DOMAIN-SUFFIX,developer.apple.com,PROXY
-DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,apple-dns.net,PROXY
+DOMAIN,apple.com,Proxy
+DOMAIN-SUFFIX,apple.com,Proxy
+DOMAIN-SUFFIX,icloud.com,Proxy
+DOMAIN-SUFFIX,icloud-content.com,Proxy
+DOMAIN-SUFFIX,itunesconnect.apple.com,Proxy
+DOMAIN-SUFFIX,developer.apple.com,Proxy
+DOMAIN-SUFFIX,cdn-apple.com,Proxy
+DOMAIN-SUFFIX,apple-dns.net,Proxy
 
 DOMAIN-SUFFIX,band.us,Proxy
 DOMAIN-SUFFIX,google.com.vn,Google

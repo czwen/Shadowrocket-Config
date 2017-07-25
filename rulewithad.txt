@@ -1,4 +1,5 @@
-# Shadowrocket: 2017-07-24 11:17:52.844862
+# Shadowrocket: 2017-07-25 14:51:40.504586
+
 # Shadowrocket config file by Hayden
 
 [General]
@@ -6301,6 +6302,7 @@ DOMAIN-SUFFIX,alphabirdnetwork.com,REJECT
 DOMAIN-SUFFIX,alphagodaddy.com,REJECT
 DOMAIN-SUFFIX,alternads.info,REJECT
 DOMAIN-SUFFIX,alternativeadverts.com,REJECT
+DOMAIN-SUFFIX,althybesr.com,REJECT
 DOMAIN-SUFFIX,altitude-arena.com,REJECT
 DOMAIN-SUFFIX,altpubli.com,REJECT
 DOMAIN-SUFFIX,am-display.com,REJECT
@@ -7259,6 +7261,7 @@ DOMAIN-SUFFIX,fastapi.net,REJECT
 DOMAIN-SUFFIX,fastates.net,REJECT
 DOMAIN-SUFFIX,fastclick.net,REJECT
 DOMAIN-SUFFIX,fasttracktech.biz,REJECT
+DOMAIN-SUFFIX,fathern.info,REJECT
 DOMAIN-SUFFIX,fb-plus.com,REJECT
 DOMAIN-SUFFIX,fbgdc.com,REJECT
 DOMAIN-SUFFIX,fbsvu.com,REJECT
@@ -7513,6 +7516,7 @@ DOMAIN-SUFFIX,halpeperglagedokkei.info,REJECT
 DOMAIN-SUFFIX,hanaprop.com,REJECT
 DOMAIN-SUFFIX,happilyswitching.net,REJECT
 DOMAIN-SUFFIX,harrenmedianetwork.com,REJECT
+DOMAIN-SUFFIX,hasingham.com,REJECT
 DOMAIN-SUFFIX,hatagashira.com,REJECT
 DOMAIN-SUFFIX,havamedia.net,REJECT
 DOMAIN-SUFFIX,havetohave.com,REJECT
@@ -8835,6 +8839,7 @@ DOMAIN-SUFFIX,revresponse.com,REJECT
 DOMAIN-SUFFIX,revsci.net,REJECT
 DOMAIN-SUFFIX,rewardisement.com,REJECT
 DOMAIN-SUFFIX,rewardsaffiliates.com,REJECT
+DOMAIN-SUFFIX,rewartific.com,REJECT
 DOMAIN-SUFFIX,rfgsi.com,REJECT
 DOMAIN-SUFFIX,rfihub.net,REJECT
 DOMAIN-SUFFIX,rhown.com,REJECT
@@ -12858,14 +12863,14 @@ DOMAIN-SUFFIX,telegram.me,Proxy
 DOMAIN-SUFFIX,t.me,Proxy
 
 # Apple
-DOMAIN,apple.com,PROXY
-DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,icloud.com,PROXY
-DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,itunesconnect.apple.com,PROXY
-DOMAIN-SUFFIX,developer.apple.com,PROXY
-DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,apple-dns.net,PROXY
+DOMAIN,apple.com,Proxy
+DOMAIN-SUFFIX,apple.com,Proxy
+DOMAIN-SUFFIX,icloud.com,Proxy
+DOMAIN-SUFFIX,icloud-content.com,Proxy
+DOMAIN-SUFFIX,itunesconnect.apple.com,Proxy
+DOMAIN-SUFFIX,developer.apple.com,Proxy
+DOMAIN-SUFFIX,cdn-apple.com,Proxy
+DOMAIN-SUFFIX,apple-dns.net,Proxy
 
 DOMAIN-SUFFIX,band.us,Proxy
 DOMAIN-SUFFIX,google.com.vn,Google

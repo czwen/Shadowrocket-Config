@@ -2690,6 +2690,7 @@
 ||alphagodaddy.com^$third-party
 ||alternads.info^$third-party
 ||alternativeadverts.com^$third-party
+||althybesr.com^$third-party
 ||altitude-arena.com^$third-party
 ||altpubli.com^$third-party
 ||am-display.com^$third-party
@@ -3751,6 +3752,7 @@
 ||fastates.net^$third-party
 ||fastclick.net^$third-party
 ||fasttracktech.biz^$third-party
+||fathern.info^$third-party
 ||fb-plus.com^$third-party
 ||fbgdc.com^$third-party
 ||fbsvu.com^$third-party
@@ -4007,6 +4009,7 @@
 ||hanaprop.com^$third-party
 ||happilyswitching.net^$third-party
 ||harrenmedianetwork.com^$third-party
+||hasingham.com^$third-party
 ||hatagashira.com^$third-party
 ||havamedia.net^$third-party
 ||havetohave.com^$third-party
@@ -5338,6 +5341,7 @@
 ||revsci.net^$third-party
 ||rewardisement.com^$third-party
 ||rewardsaffiliates.com^$third-party
+||rewartific.com^$third-party
 ||rfgsi.com^$third-party
 ||rfihub.net^$third-party
 ||rhown.com^$third-party
